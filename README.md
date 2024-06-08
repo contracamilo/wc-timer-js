@@ -1,5 +1,9 @@
 # Web Components Timer
 
+https://github.com/contracamilo/wc-timer-js/assets/27745159/82742a93-93a6-4a6a-919b-1a92289002e2
+
+
+
 ## Description
 
 A timer app created with the web components API
